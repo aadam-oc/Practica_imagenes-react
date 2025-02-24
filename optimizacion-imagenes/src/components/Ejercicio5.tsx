@@ -28,9 +28,7 @@ const Ejercicio5 = () => {
       <h2 className="text-2xl font-bold mt-6">Notas del Estudiante</h2>
       <MarkdownEditor />
 
-      {/* ✅ Test final para repasar conocimientos */}
-      <h2 className="text-2xl font-bold mt-6">Test Final</h2>
-      <Test />
+      
     </div>
   );
 };
